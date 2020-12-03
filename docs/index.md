@@ -24,8 +24,6 @@ __Data Science Certificate__
 
 
 ## Work Experience
-<hr>
-
 `July 2019 – Present`
 
 __LMS Quality Assurance Specialist__, BYU-Idaho
