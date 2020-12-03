@@ -9,8 +9,6 @@ Rexburg, ID | 423-619-4299 | <div id="webaddress">
 <!-- https://www.monique.tech/the-art-of-markdown this is a comment on markdown tricks -->
 
 ## Education
-<hr>
-
 `December 2020`
 
 __Bachelor of Science in Business Finance__
