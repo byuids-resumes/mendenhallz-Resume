@@ -3,8 +3,7 @@ layout: cv
 title: Zac Mendenhall's Resume
 ---
 # Zachary Mendenhall
-Rexburg, ID | 423-619-4299 | <div id="webaddress">
-<a href="zachary.mendenhall10@gmail.com">zachary.mendenhall10@gmail.com</a> | <a href="https://linkedin.com/in/zachary-mendenhall">LinkedIn</a></div>
+Rexburg, ID | 423-619-4299 | <div id="webaddress"> <a href="zachary.mendenhall10@gmail.com">zachary.mendenhall10@gmail.com</a> | <a href="https://linkedin.com/in/zachary-mendenhall">LinkedIn</a></div>
 
 <!-- https://www.monique.tech/the-art-of-markdown this is a comment on markdown tricks -->
 
