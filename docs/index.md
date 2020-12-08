@@ -22,7 +22,6 @@ __Data Science Certificate__
 
 ## Work Experience
 `July 2019 – Present`
-
 __LMS Quality Assurance Specialist__, BYU-Idaho
 
 - Ensure university courses meet ADA Compliance through audits and reviews.
