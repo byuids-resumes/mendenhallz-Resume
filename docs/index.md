@@ -47,13 +47,6 @@ __Project Manager__, BYU-Idaho
 - Mastered use of team management technology (Microsoft Teams, Slack, Trello). 
 - Became proficient in HTML and CSS coding languages.
 
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> c20887e9da41bc449e5c92c1875fb3c821d86a0c
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
