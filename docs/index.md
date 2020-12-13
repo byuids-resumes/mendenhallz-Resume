@@ -3,7 +3,7 @@ layout: cv
 title: Zac Mendenhall's Resume
 ---
 # Zachary Mendenhall
-Rexburg, ID | 423-619-4299 | <div id="webaddress"> <a href="zachary.mendenhall10@gmail.com">zachary.mendenhall10@gmail.com</a> | <a href="https://linkedin.com/in/zachary-mendenhall">LinkedIn</a></div>
+Rexburg, ID | 423-619-4299 | <a href="zachary.mendenhall10@gmail.com">zachary.mendenhall10@gmail.com</a> | <a href="https://linkedin.com/in/zachary-mendenhall">LinkedIn</a>
 
 <!-- https://www.monique.tech/the-art-of-markdown this is a comment on markdown tricks -->
 
@@ -48,6 +48,11 @@ __Project Manager__, BYU-Idaho
 - Became proficient in HTML and CSS coding languages.
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> c20887e9da41bc449e5c92c1875fb3c821d86a0c
 
 <!-- ### Footer
 
