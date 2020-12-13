@@ -41,20 +41,11 @@ __Marketing and SEO Specialist__, EZ-NetTools
 - Created and edited website content using HTML and CSS.
 
 `March 2016 - March 2018`
-__Project Manager (Learning Management System Transition)__, BYU-Idaho
+__Project Manager__, BYU-Idaho
 
 - Managed teams of 20 students and trained new hires on programs and processes for the university LMS transition process. Conducted interviews for hiring new employees.
 - Mastered use of team management technology (Microsoft Teams, Slack, Trello). 
 - Became proficient in HTML and CSS coding languages.
-
-
-`January 2014 - December 2015`
-__Full-time Representative__, The Church of Jesus Christ of Latter-day Saints
-
-- Managed large groups of missionaries and led weekly trainings sessions to achieve goals.
-- Became fluent in Brazilian Portuguese in under 6 months. 
-- Worked with many different cultures of people and developed critical thinking and people skills.
-
 
 
 
